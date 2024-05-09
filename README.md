@@ -6,10 +6,10 @@ In my free time, I like to play basketball and soccer.
 
 This is my first repository for Web Game Development.
 
-[ ] Create a repository on GitHub
-[ ] Create a branch on GitHub
-[ ] Make changes to the branch
-[ ] Open a pull request on GitHub
-[ ] Merge your pull request
-[ ] Filled out the feedback form (optional)
+- [ ] Create a repository on GitHub
+- [ ] Create a branch on GitHub
+- [ ] Make changes to the branch
+- [ ] Open a pull request on GitHub
+- [ ] Merge your pull request
+- [ ] Filled out the feedback form (optional)
 
